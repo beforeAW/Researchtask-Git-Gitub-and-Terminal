@@ -1,2 +1,2 @@
-# Researchtask-Git-Gitub-and-Terminal
+# Researchtask-Git-Github-and-Terminal
 Learning the terminal, git and github
