@@ -14,7 +14,7 @@
 
 ### Commands learned from others sources for the terminal and git 
 
-**cp** // *Make a copy in the directory of a file and you can ad -R so you copy the whoule directory instead*
+**cp** // *Make a copy in the directory of a file and you can add -R so you copy the whoule directory instead*
 
 **find** // *The find command, so you can locate a specific file or files of a typ if*
 
